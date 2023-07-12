@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ehsaantaheri
 - 👀 I’m interested in data analyst field 
 - 🌱 I’m currently learning data analytical subjects 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data analyst jobs and tasks remotely 
 - 📫 How to reach me {email: taherie676@gmail.com}
 
 <!---
